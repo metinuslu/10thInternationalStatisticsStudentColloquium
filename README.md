@@ -4,9 +4,9 @@
 - [Slide Share]
 
 ### Contact
-[Hacettepe University]
+[Hacettepe University]  
 [Muğla Sıtkı Koçman Üniversitesi]  
-[10. Uluslararası İstatistik Öğrenci Kolokyumu]
+[10. Uluslararası İstatistik Öğrenci Kolokyumu]  
 
 [Hacettepe University]:<https://hacettepe.edu.tr/english>
 [Muğla Sıtkı Koçman Üniversitesi]:<https://fen.mu.edu.tr/tr/etkinlik/istatistik-kolokyumu-163>
